@@ -78,7 +78,7 @@
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
-##  💬 Let's Connect
+##  🤝 Let's Connect
 
 
 <p align="left">
