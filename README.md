@@ -1,8 +1,12 @@
+<!----------------------------------- Heading Section ------------------------------------>
+
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hisamuddin Shaikh</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
+
+<!----------------------------------- About Section ------------------------------------>
 
 ## 🙋‍♂️ About Me
 
@@ -18,23 +22,6 @@
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
 <!-- <p align="center">
@@ -43,14 +30,43 @@
     </a>
 </p> -->
 
+<!----------------------------------- Tech Stack Section ------------------------------------>
+
+## 🚀 Tech Stack
+
+<p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
+    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
+    <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
+</p>
+<br>
+
+<!----------------------------------- GitHub Stats Section ------------------------------------>
+
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Hisam-94/github-readme-stats"><img alt="Hisamuddin Shaikh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hisam-94&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Hisam-94/github-readme-stats"><img alt="Hisamuddin Shaikh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hisam-94&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Hisam-94/github-readme-stats"><img alt="Hisamuddin Shaikh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hisam-94&show_icons=true&count_private=true&theme=react&hide=issues,contribs&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Hisam-94/github-readme-stats"><img alt="Hisamuddin Shaikh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hisam-94&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="150" /></a>
+  <br/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+  <br/>
+  <br/>
 
 <br/>
 <br/>
@@ -58,15 +74,29 @@
 <a href="https://github.com/Hisam-94/github-readme-activity-graph"><img alt="Hisamuddin Shaikh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hisam-94&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
 
-## Connect with me:
+
+<!----------------------------------- Social Media Links Section ------------------------------------>
+
+##  💬 Let's Connect
+
+
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/hisamuddin-shaikh/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Hisam94"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
+    <a href="https://linkedin.com/in/hisamuddin-shaikh">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
+    </a>
+    <a href="https://twitter.com/Hisam94">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/MohitSehrawatt" />
+    </a>
+    <a href="https://portfolio-hisamuddin-shaikh.vercel.app/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mohit-portfolio.vercel.app/" />
+    </a>
+    <a title="hisamuddin94@gmail.com" href="mailto:hisamuddin94@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="hisamuddin94@gmail.com" />
+    </a>
 </p>
+<br>
+
 
 <!-- ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
