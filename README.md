@@ -1,6 +1,6 @@
 <!----------------------------------- Heading Section ------------------------------------>
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<p href="#" align="center"><img height="auto" src="https://github.com/Hisam-94/Hisam-94/blob/main/hadder.gif" width="380px"/></p><br/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hisamuddin Shaikh</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
