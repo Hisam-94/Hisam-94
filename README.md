@@ -10,9 +10,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Lateli-Clone](https://hisamuddin-lately-clone.netlify.app/)**
+<!--- 🔭 I’m currently working on **[Lateli-Clone](https://hisamuddin-lately-clone.netlify.app/)** -->
 
-- 🌱 I’m currently learning **TypeScript.**
+- 🌱 I’m currently learning **Full Stack Web Development from Masai School.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **hisamuddin94@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+<!--- ⚡ Fun fact **I play games and go to the GYM very often.**-->
 
 <br/>
 
