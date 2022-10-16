@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-hisamuddin-shaikh.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://hisam-94.github.io/Portfolio/)**
 
 - 📫 How to reach me **hisamuddin94@gmail.com**
 
