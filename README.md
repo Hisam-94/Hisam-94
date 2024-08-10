@@ -1,38 +1,40 @@
 <!----------------------------------- Heading Section ------------------------------------>
+## Hey 👋, I'm Hisamuddin Shaikh!
 
-<p href="#" align="center"><img height="auto" src="https://github.com/Hisam-94/Hisam-94/blob/main/hadder.gif" width="380px"/></p><br/>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hisamuddin Shaikh</h1>
-<h3 align="center">Efficient and aspiring full-stack web developer with a specialization in MERN stack. Seeking a challenging role in a progressive organization that offers immense growth opportunities to implement my knowledge and skills to contribute to the success of the organization..</h3>
+ 
+A versatile professional who easily adapts to different roles (Full Stack Web Developer 🌐, App Developer 📱 or beginner level Designer 🎨) depending on what the project requires. Enjoys exploring new tech stacks 💻 and leveraging them to build innovative solutions 🛠️. 
+<br/>
+<br/>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 
 
 <!----------------------------------- About Section ------------------------------------>
 
-## 🙋‍♂️ About Me
+### 🧐 More About Me:
 
-<!--- 🔭 I’m currently working on **[Lateli-Clone](https://hisamuddin-lately-clone.netlify.app/)** -->
+- 🔭 &nbsp; I’m currently working on **Chat Application**.
+- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database).
+- 🚀 &nbsp; I’m currently exploring Next.Js, AI.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Hisam-94?tab=repositories).
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help.
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/hisamuddin-shaikh/).
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1IdTax8BQOzpIvRMgtRgBx4B1mS8RC-n4/view?usp=sharing).
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
 
-- 🌱 I’m currently learning **Full Stack Web Development from Masai School.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://hisam-94.github.io/Portfolio/)**
-
-- 📫 How to reach me **hisamuddin94@gmail.com**
-
-<!--- ⚡ Fun fact **I play games and go to the GYM very often.**-->
-
-<br/>
-
+<br>
 <!-- <p align="center">
     <a href="https://github.com/Hisam-94/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hisamuddin Shaikh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hisam-94&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p> -->
+</p> --
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
-## 🚀 Tech Stack
+### 🔨 Languages and Tools:
 
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
@@ -69,12 +71,6 @@
   <br/>
 
 <br/>
-<br/>
-
-<a href="https://github.com/Hisam-94/github-readme-activity-graph"><img alt="Hisamuddin Shaikh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hisam-94&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
@@ -103,3 +99,10 @@
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a> -->
 <!-- <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a> -->
+
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
